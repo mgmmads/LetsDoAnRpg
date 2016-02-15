@@ -1,1 +1,7 @@
 c:\users\ander\onedrive\dokument\visual studio 2015\Projects\LetsDoAnRpg\LetsDoAnRpg\bin\Debug\LetsDoAnRpg.exe.config
+C:\Users\Mads\Documents\GitHub\LetsDoAnRpg\LetsDoAnRpg\LetsDoAnRpg\bin\Debug\LetsDoAnRpg.exe.config
+C:\Users\Mads\Documents\GitHub\LetsDoAnRpg\LetsDoAnRpg\LetsDoAnRpg\obj\Debug\LetsDoAnRpg.csprojResolveAssemblyReference.cache
+C:\Users\Mads\Documents\GitHub\LetsDoAnRpg\LetsDoAnRpg\LetsDoAnRpg\bin\Debug\LetsDoAnRpg.exe
+C:\Users\Mads\Documents\GitHub\LetsDoAnRpg\LetsDoAnRpg\LetsDoAnRpg\bin\Debug\LetsDoAnRpg.pdb
+C:\Users\Mads\Documents\GitHub\LetsDoAnRpg\LetsDoAnRpg\LetsDoAnRpg\obj\Debug\LetsDoAnRpg.exe
+C:\Users\Mads\Documents\GitHub\LetsDoAnRpg\LetsDoAnRpg\LetsDoAnRpg\obj\Debug\LetsDoAnRpg.pdb

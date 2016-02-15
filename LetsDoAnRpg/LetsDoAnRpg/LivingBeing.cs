@@ -8,10 +8,9 @@ namespace LetsDoAnRpg
 {
     interface LivingBeing
     {
+        string Name { get; set; }
         double MaxHealth { get; set;}
         double CurrentHealth { get; set; }
-        double MaxMana { get; set; }
-        double CurrentMana { get; set; }
         double Damage { get; set; }
     }
 }
